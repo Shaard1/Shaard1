@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="./assets/Pixel%20art%20raining.gif"  />
+  <img height="150" src="./assets/Pixel%20art%20raining.gif" style="width:100%;"  />
+  
 </div>
 
 ###
