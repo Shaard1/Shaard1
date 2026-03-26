@@ -22,7 +22,7 @@
 <h1 align="center">hey there 👋</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Barangay Management System using Flutter and Supabase<br>2D game development using MonoGame and VS Code<br><br>👯 I’m looking to collaborate on<br>Student and open source projects<br><br>🤝 I’m looking for help with<br>Backend optimization and database performance<br>UI and UX for clean and usable interfaces<br><br>🌱 I’m currently learning<br>Full stack development, MonoGame, system design<br><br>💬 Ask me about<br>Anything dev related<br><br>⚡ Fun fact<br>Builds systems by day, develops games by night<br>
+🔭 I’m currently working on<br>Barangay Management System using Flutter and Supabase<br>2D game development using MonoGame and VS Code<br><br>👯 I’m looking to collaborate on<br>Student and open source projects<br><br>🤝 I’m ladasdasdooking for help with<br>Backend optimization and database performance<br>UI and UX for clean and usable interfaces<br><br>🌱 I’m currently learning<br>Full stack development, MonoGame, system design<br><br>💬 Ask me about<br>Anything dev related<br><br>⚡ Fun fact<br>Builds systems by day, develops games by night<br>
 
 ###
 
