@@ -59,13 +59,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=Shaard1&show_icons=true&theme=transparent&title_color=a6e3a1&icon_color=94e2d5&text_color=b5bfe2&bg_color=24273a&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shaard1&show_icons=true&theme=transparent&title_color=a6e3a1&icon_color=94e2d5&text_color=b5bfe2&bg_color=24273a&hide_border=true&rank_icon=github&card_width=400&hide=contribs,prs" alt="GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=Shaard1&layout=compact&theme=transparent&title_color=a6e3a1&text_color=b5bfe2&bg_color=24273a&hide_border=true&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaard1&layout=compact&theme=transparent&title_color=a6e3a1&text_color=b5bfe2&bg_color=24273a&hide_border=true&card_width=400" alt="Top Languages" />
 
 </div>
 
