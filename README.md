@@ -59,25 +59,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=a6e3a1&icon_color=94e2d5&text_color=b5bfe2&bg_color=24273a&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=Shaard1&show_icons=true&theme=transparent&title_color=a6e3a1&icon_color=94e2d5&text_color=b5bfe2&bg_color=24273a&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=a6e3a1&text_color=b5bfe2&bg_color=24273a&hide_border=true&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=Shaard1&layout=compact&theme=transparent&title_color=a6e3a1&text_color=b5bfe2&bg_color=24273a&hide_border=true&card_width=400" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-black-phi.vercel.app?user=fuwadog&theme=transparent&hide_border=true&ring=a6e3a1&fire=f5a97f&currStreakLabel=f0a6d5&sideLabels=b5bfe2&dates=6e738d&background=24273a)
+![GitHub Streak](https://github-readme-streak-stats-black-phi.vercel.app?user=Shaard1&theme=transparent&hide_border=true&ring=a6e3a1&fire=f5a97f&currStreakLabel=f0a6d5&sideLabels=b5bfe2&dates=6e738d&background=24273a)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuwadog&bg_color=24273a&color=b5bfe2&line=a6e3a1&point=f5a97f&area=true&hide_border=true&curve=linear)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaard1&bg_color=24273a&color=b5bfe2&line=a6e3a1&point=f5a97f&area=true&hide_border=true&curve=linear)
 
 </div>
 
