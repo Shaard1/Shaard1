@@ -188,5 +188,5 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 ---
 
 <div align="center">
-  <img src="./assets/Object show oneshots!.gif" width="88%" alt="Footer gif" />
+  <img src="./assets/Object show oneshots!.gif" width="100%" alt="Footer gif" />
 </div>
