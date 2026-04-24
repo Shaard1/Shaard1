@@ -1,3 +1,17 @@
+<!--
+    Hey there 👋
+
+    If you’re using my README as inspiration 
+    or as a base for your own, I really appreciate it!
+
+    I’m glad you found it useful.
+
+    Just one small request:
+    Please consider leaving a ⭐ on my repository — it would mean a lot to me.
+
+    GitHub: https://github.com/Shaard1
+-->
+
 <div align="center">
   <img src="./assets/Raining.gif" width="100%" alt="Raining banner" />
 </div>
