@@ -60,9 +60,10 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 ## Tech Stack
 
+<div align="center">
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <strong>Frontend</strong>
       <br /><br />
       <img src="https://img.shields.io/badge/HTML5-5E7F67?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -77,7 +78,7 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
       <img src="https://img.shields.io/badge/Tailwind_CSS-5E7F67?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Flutter-243A33?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <strong>Backend</strong>
       <br /><br />
       <img src="https://img.shields.io/badge/C%23-5E7F67?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -89,7 +90,7 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
       <img src="https://img.shields.io/badge/Supabase-5E7F67?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
       <img src="https://img.shields.io/badge/Firebase-243A33?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <strong>Workflow</strong>
       <br /><br />
       <img src="https://img.shields.io/badge/Git-5E7F67?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -100,6 +101,7 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
