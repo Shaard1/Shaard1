@@ -107,11 +107,7 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 ---
 
-<div align="center">
-  <strong>Note</strong>
-</div>
-
-<br />
+## Note
 
 <img src="./assets/Caution raining screen.gif" width="160" align="right" alt="Decorative caution raining gif" />
 
