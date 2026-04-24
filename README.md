@@ -2,65 +2,30 @@
   <img src="./assets/Raining.gif" width="100%" alt="Raining banner" />
 </div>
 
-<div align="center">
-  <a href="https://api.github-star-counter.workers.dev/user/Shaard1">
-    <img
-      width="120"
-      height="28"
-      alt="Stars"
-      title="Stars Profile"
-      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=243A33&labelColor=5E7F67&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Shaard1"
-    />
-  </a>
-  <a href="https://api.github-star-counter.workers.dev/user/Shaard1">
-    <img
-      width="111"
-      height="28"
-      alt="Forks"
-      title="Forks Repository"
-      src="https://custom-icon-badges.demolab.com/github/forks/Shaard1/Shaard1?color=243A33&logo=fork&style=for-the-badge&logoColor=white&labelColor=5E7F67"
-    />
-  </a>
-  <a href="https://github.com/Shaard1?tab=followers">
-    <img
-      width="150"
-      height="28"
-      alt="Followers"
-      title="GitHub Followers"
-      src="https://custom-icon-badges.herokuapp.com/github/followers/Shaard1?color=243A33&labelColor=5E7F67&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff"
-    />
-  </a>
-  <a href="https://badges.pufler.dev/visits/Shaard1/Shaard1">
-    <img
-      width="132"
-      height="28"
-      alt="Visitors"
-      title="Profile Visitors"
-      src="https://badges.pufler.dev/visits/Shaard1/Shaard1?style=for-the-badge&label=VISITORS&color=243A33&labelColor=5E7F67&logo=googleanalytics&logoColor=white"
-    />
-  </a>
-</div>
+<p align="center">
+  <a href="https://api.github-star-counter.workers.dev/user/Shaard1"><img width="112" height="28" alt="Stars" title="Stars Profile" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=243A33&labelColor=5E7F67&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Shaard1" /></a>
+  <a href="https://api.github-star-counter.workers.dev/user/Shaard1"><img width="112" height="28" alt="Forks" title="Forks Repository" src="https://custom-icon-badges.demolab.com/github/forks/Shaard1/Shaard1?color=243A33&logo=fork&style=for-the-badge&logoColor=white&labelColor=5E7F67" /></a>
+  <a href="https://github.com/Shaard1?tab=followers"><img width="140" height="28" alt="Followers" title="GitHub Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/Shaard1?color=243A33&labelColor=5E7F67&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" /></a>
+  <a href="https://badges.pufler.dev/visits/Shaard1/Shaard1"><img width="122" height="28" alt="Visitors" title="Profile Visitors" src="https://badges.pufler.dev/visits/Shaard1/Shaard1?style=for-the-badge&label=VISITORS&color=243A33&labelColor=5E7F67&logo=googleanalytics&logoColor=white" /></a>
+</p>
 
 ---
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="42%" align="center" valign="top">
-      <img src="./assets/Cat.gif" width="100%" alt="Cat gif" />
-    </td>
-    <td width="58%" valign="top">
-      I'm an aspiring full-stack developer with a strong interest in game development. I currently build games using MonoGame, although I started with Godot, which helped me understand the fundamentals before moving into a more code-focused approach.
-      <br /><br />
-      Alongside that, I build web and mobile applications using HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Flutter, and React-based tools. I mainly use Supabase for backend and database, but I've also worked with Firebase, PostgreSQL, and Vercel depending on the project.
-      <br /><br />
-      I've been using Visual Studio Code since 2018, so it's where I'm most comfortable working. I also use GitHub regularly to manage projects, track changes, and improve my workflow over time.
-      <br /><br />
-      Right now, I focus on building real projects, whether it's web apps, mobile apps, or small games. Not just for learning, but to actually create things that work and improve through experience.
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/Cat.gif" width="40%" align="left" alt="Cat gif" />
+</p>
+
+I'm an aspiring full-stack developer with a strong interest in game development. I currently build games using MonoGame, although I started with Godot, which helped me understand the fundamentals before moving into a more code-focused approach.
+
+Alongside that, I build web and mobile applications using HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Flutter, and React-based tools. I mainly use Supabase for backend and database, but I've also worked with Firebase, PostgreSQL, and Vercel depending on the project.
+
+I've been using Visual Studio Code since 2018, so it's where I'm most comfortable working. I also use GitHub regularly to manage projects, track changes, and improve my workflow over time.
+
+Right now, I focus on building real projects, whether it's web apps, mobile apps, or small games. Not just for learning, but to actually create things that work and improve through experience.
+
+<br clear="left"/>
 
 ---
 
