@@ -1,15 +1,18 @@
 <!--
-    Hey there 👋
+    Hi there 👋
 
-    If you’re using my README as inspiration 
-    or as a base for your own, I really appreciate it!
+    If you are using this README as a base or got some inspiration from it, I really appreciate that.
 
-    I’m glad you found it useful.
+    I made this while learning and building projects, and I am still improving it over time. So seeing others use it is honestly motivating.
 
     Just one small request:
-    Please consider leaving a ⭐ on my repository — it would mean a lot to me.
+
+    Please consider leaving a ⭐ on the repository.
+    It may seem small, but it actually helps a lot.
 
     GitHub: https://github.com/Shaard1
+
+    Keep building. Keep learning. That is what matters.
 -->
 
 <div align="center">
