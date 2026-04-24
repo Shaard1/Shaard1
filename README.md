@@ -21,9 +21,9 @@
 
 <div align="center">
 
-[![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=243A33&labelColor=5E7F67&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Shaard1)](https://api.github-star-counter.workers.dev/user/Shaard1)
-[![Forks](https://custom-icon-badges.demolab.com/github/forks/Shaard1/Shaard1?color=243A33&logo=fork&style=for-the-badge&logoColor=white&labelColor=5E7F67)](https://api.github-star-counter.workers.dev/user/Shaard1)
-[![Followers](https://custom-icon-badges.herokuapp.com/github/followers/Shaard1?color=243A33&labelColor=5E7F67&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff)](https://github.com/Shaard1?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Shaard1/Shaard1?style=for-the-badge&logo=github&label=Stars&color=243A33&labelColor=5E7F67&logoColor=white)](https://github.com/Shaard1/Shaard1/stargazers)
+[![Forks](https://img.shields.io/github/forks/Shaard1/Shaard1?style=for-the-badge&logo=github&label=Forks&color=243A33&labelColor=5E7F67&logoColor=white)](https://github.com/Shaard1/Shaard1/forks)
+[![Followers](https://img.shields.io/github/followers/Shaard1?style=for-the-badge&logo=github&label=Followers&color=243A33&labelColor=5E7F67&logoColor=white)](https://github.com/Shaard1?tab=followers)
 [![Visitors](https://badges.pufler.dev/visits/Shaard1/Shaard1?style=for-the-badge&label=VISITORS&color=243A33&labelColor=5E7F67&logo=googleanalytics&logoColor=white)](https://badges.pufler.dev/visits/Shaard1/Shaard1)
 
 </div>
