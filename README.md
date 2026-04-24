@@ -56,7 +56,11 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 ---
 
-## Tech Stack
+<div align="center">
+  <strong>Tech Stack</strong>
+</div>
+
+<br />
 
 <div align="center">
 <table>
@@ -103,7 +107,11 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 ---
 
-## Note
+<div align="center">
+  <strong>Note</strong>
+</div>
+
+<br />
 
 <img src="./assets/Caution raining screen.gif" width="160" align="right" alt="Decorative caution raining gif" />
 
@@ -143,7 +151,11 @@ I build, test, and refine projects over time. Some ideas work, some don't, but e
 
 ---
 
-## Statistics
+<div align="center">
+  <strong>Statistics</strong>
+</div>
+
+<br />
 
 <div align="center">
   <img
