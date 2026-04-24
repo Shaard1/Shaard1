@@ -19,25 +19,19 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="28%" valign="top" align="center">
-      <img src="./assets/Cat.gif" width="100%" alt="Cat gif" />
-    </td>
-    <td width="4%"></td>
-    <td width="68%" valign="top">
-      I'm an aspiring full-stack developer with a strong interest in game development. I currently build games using MonoGame, although I started with Godot, which helped me understand the fundamentals before moving into a more code-focused approach.
-      <br /><br />
-      Alongside that, I build web and mobile applications using HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Flutter, and React-based tools. I mainly use Supabase for backend and database, but I've also worked with Firebase, PostgreSQL, and Vercel depending on the project.
-      <br /><br />
-      I've been using Visual Studio Code since 2018, so it's where I'm most comfortable working. I also use GitHub regularly to manage projects, track changes, and improve my workflow over time.
-      <br /><br />
-      Right now, I focus on building real projects, whether it's web apps, mobile apps, or small games. Not just for learning, but to actually create things that work and improve through experience.
-      <br /><br />
-      I'm still learning, and I don't consider myself an expert yet. But I stay consistent, keep building, and continue improving my skills over time.
-    </td>
-  </tr>
-</table>
+<img src="./assets/Cat.gif" width="26%" align="left" alt="Cat gif" />
+
+I'm an aspiring full-stack developer with a strong interest in game development. I currently build games using MonoGame, although I started with Godot, which helped me understand the fundamentals before moving into a more code-focused approach.
+
+Alongside that, I build web and mobile applications using HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Flutter, and React-based tools. I mainly use Supabase for backend and database, but I've also worked with Firebase, PostgreSQL, and Vercel depending on the project.
+
+I've been using Visual Studio Code since 2018, so it's where I'm most comfortable working. I also use GitHub regularly to manage projects, track changes, and improve my workflow over time.
+
+Right now, I focus on building real projects, whether it's web apps, mobile apps, or small games. Not just for learning, but to actually create things that work and improve through experience.
+
+I'm still learning, and I don't consider myself an expert yet. But I stay consistent, keep building, and continue improving my skills over time.
+
+<br clear="left" />
 
 ---
 
