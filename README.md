@@ -39,7 +39,9 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 ---
 
-## Let's Connect
+<div align="center">
+  <strong>Let's Connect</strong>
+</div>
 
 <div align="center">
 
