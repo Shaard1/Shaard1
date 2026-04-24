@@ -19,7 +19,7 @@
 
 <br />
 
-<img src="./assets/Cat.gif" width="260" align="left" alt="Cat gif" />
+<img src="./assets/Cat.gif" width="230" align="left" alt="Cat gif" />
 
 <div align="center">
 
