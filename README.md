@@ -21,12 +21,6 @@
 
 <img src="./assets/Cat.gif" width="260" align="left" alt="Cat gif" />
 
-<div align="center">
-
-**About Me**
-
-</div>
-
 <div align="justify">
 
 I'm an aspiring **full-stack developer** with a strong interest in **game development**. I currently build games using **MonoGame**, although I started with `Godot`, which helped me understand the fundamentals before moving into a more code-focused approach.
