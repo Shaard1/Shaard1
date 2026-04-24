@@ -19,7 +19,7 @@
 
 <br />
 
-<img src="./assets/Cat.gif" width="26%" align="left" alt="Cat gif" />
+<img src="./assets/Cat.gif" width="32%" align="left" hspace="18" alt="Cat gif" />
 
 I'm an aspiring full-stack developer with a strong interest in game development. I currently build games using MonoGame, although I started with Godot, which helped me understand the fundamentals before moving into a more code-focused approach.
 
