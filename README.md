@@ -43,6 +43,8 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
   <strong>Let's Connect</strong>
 </div>
 
+<br />
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5E7F67?style=for-the-badge&logo=linkedin&labelColor=5E7F67&logoColor=white)](https://www.linkedin.com/)
@@ -103,18 +105,15 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 ## Note
 
-<table>
-  <tr>
-    <td width="78%" valign="top">
-      What you see here is the result of ongoing work.
-      <br /><br />
-      I build, test, and refine projects over time. Some ideas work, some don't, but each one helps me improve and move forward.
-    </td>
-    <td width="22%" align="right" valign="top">
-      <img src="./assets/Caution raining screen.gif" width="160" alt="Decorative caution raining gif" />
-    </td>
-  </tr>
-</table>
+<img src="./assets/Caution raining screen.gif" width="160" align="right" alt="Decorative caution raining gif" />
+
+What you see here is the result of ongoing work.
+
+<br /><br />
+
+I build, test, and refine projects over time. Some ideas work, some don't, but each one helps me improve and move forward.
+
+<br clear="right" />
 
 ---
 
