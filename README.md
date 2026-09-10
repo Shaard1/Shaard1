@@ -194,6 +194,8 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
       <img src="https://img.shields.io/badge/FFmpeg-243A33?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
       <br /><br />
       <a href="https://convertiva.vercel.app/">Live Demo</a>
+      <br />
+      <sub>🔒 Private repository — contact me for more details.</sub>
     </td>
     <td width="50%" align="center" valign="top" style="word-wrap: break-word;">
       <h3>Tidewalk Surf Lodge</h3>
@@ -208,9 +210,7 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
       <img src="https://img.shields.io/badge/Supabase-5E7F67?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
       <img src="https://img.shields.io/badge/Groq%20AI-243A33?style=for-the-badge&logoColor=white" alt="Groq AI" />
       <br /><br />
-      <a href="https://tidewalk-surf-lodge.vercel.app/">Live Website</a>
-      <br />
-      <sub>🔒 Private repository — contact me for more details.</sub>
+      <sub>🚧 Currently in development.</sub>
     </td>
   </tr>
 </table>
