@@ -174,30 +174,9 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 <div align="center">
   <img
-    width="49%"
-    alt="Most used languages"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shaard1&layout=compact&theme=transparent&title_color=7FA6B8&text_color=C2D7DE&bg_color=243A33&hide_border=true&card_width=420"
-  />
-  <img
-    width="49%"
-    alt="GitHub stats"
-    src="https://github-stats-extended.vercel.app/api?username=Shaard1&show_icons=true&theme=transparent&title_color=7FA6B8&icon_color=A7C1A8&text_color=C2D7DE&bg_color=243A33&hide_border=true&rank_icon=github&card_width=420&hide=contribs"
-  />
-</div>
-
-<div align="center">
-  <img
     width="78%"
     alt="GitHub streak statistics"
     src="https://streak-stats.demolab.com?user=Shaard1&theme=dark&hide_border=true&background=243A33&stroke=5E7F67&ring=7FA6B8&fire=A7C1A8&currStreakLabel=D8EBF2&sideLabels=E7F1E5&sideNums=D8EBF2&dates=B7C9B2"
-  />
-</div>
-
-<div align="center">
-  <img
-    width="100%"
-    alt="GitHub profile summary and contribution graph"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaard1&theme=github_dark"
   />
 </div>
 
