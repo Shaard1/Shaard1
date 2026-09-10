@@ -173,13 +173,13 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 <br />
 
 <div align="center">
-<table align="center" width="100%">
+<table align="center" width="100%" style="table-layout: fixed;">
   <colgroup>
     <col width="50%" />
     <col width="50%" />
   </colgroup>
   <tr>
-    <td width="100%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="word-wrap: break-word;">
       <h3>Convertiva</h3>
       <p>A secure, full-stack file conversion platform for images, PDFs, archives,<br />spreadsheets, audio, video, and websites.</p>
       <strong>Stack</strong>
@@ -195,7 +195,7 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
       <br /><br />
       <a href="https://convertiva.vercel.app/">Live Demo</a>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top" style="word-wrap: break-word;">
       <h3>Tidewalk Surf Lodge</h3>
       <p>A connected surf-lodge booking website and staff CRM for managing guests, bookings, payments, tasks, reviews, and AI-assisted travel inquiries.</p>
       <strong>Stack</strong>
