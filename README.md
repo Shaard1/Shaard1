@@ -63,19 +63,6 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 <br />
 
 <div align="center">
-  <img
-    width="49%"
-    alt="Most used languages"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shaard1&layout=compact&theme=transparent&title_color=7FA6B8&text_color=C2D7DE&bg_color=243A33&hide_border=true&card_width=420"
-  />
-  <img
-    width="49%"
-    alt="GitHub stats"
-    src="https://github-stats-extended.vercel.app/api?username=Shaard1&show_icons=true&theme=transparent&title_color=7FA6B8&icon_color=A7C1A8&text_color=C2D7DE&bg_color=243A33&hide_border=true&rank_icon=github&card_width=420&hide=contribs"
-  />
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5E7F67?style=for-the-badge&logo=linkedin&labelColor=5E7F67&logoColor=white)](https://www.linkedin.com/in/jadon-cidro-3618873b1/)
 [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-5E7F67?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shaard8)
@@ -86,7 +73,7 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 ---
 
 <div align="center">
-  <strong>Tech Stack</strong>
+<strong>Tech Stack</strong>
 </div>
 
 <br />
@@ -180,10 +167,23 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 ---
 
 <div align="center">
-  <strong>Statistics</strong>
+<strong>Statistics</strong>
 </div>
 
 <br />
+
+<div align="center">
+  <img
+    width="49%"
+    alt="Most used languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shaard1&layout=compact&theme=transparent&title_color=7FA6B8&text_color=C2D7DE&bg_color=243A33&hide_border=true&card_width=420"
+  />
+  <img
+    width="49%"
+    alt="GitHub stats"
+    src="https://github-stats-extended.vercel.app/api?username=Shaard1&show_icons=true&theme=transparent&title_color=7FA6B8&icon_color=A7C1A8&text_color=C2D7DE&bg_color=243A33&hide_border=true&rank_icon=github&card_width=420&hide=contribs"
+  />
+</div>
 
 <div align="center">
   <img
