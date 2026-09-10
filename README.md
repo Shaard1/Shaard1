@@ -174,6 +174,10 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 <div align="center">
 <table align="center" width="100%">
+  <colgroup>
+    <col width="50%" />
+    <col width="50%" />
+  </colgroup>
   <tr>
     <td width="100%" align="center" valign="top">
       <h3>Convertiva</h3>
