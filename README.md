@@ -172,12 +172,22 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 <br />
 
-<table>
+<table width="100%">
   <tr>
-    <td width="100%" valign="top">
+    <td align="center" valign="top">
       <h3>Convertiva</h3>
-      <p>A web project built to turn ideas into a polished, usable experience.</p>
-      <p><strong>Stack:</strong> Next.js 15 · React 19 · TypeScript · Tailwind CSS · Supabase · Go · FFmpeg</p>
+      <p>A secure, full-stack file conversion platform for images, PDFs, archives, spreadsheets, audio, video, and websites.</p>
+      <strong>Stack</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Next.js%2015-243A33?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
+      <img src="https://img.shields.io/badge/React%2019-5E7F67?style=for-the-badge&logo=react&logoColor=white" alt="React 19" />
+      <img src="https://img.shields.io/badge/TypeScript-243A33?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-5E7F67?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Supabase-243A33?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Go-5E7F67?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/FFmpeg-243A33?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+      <br /><br />
       <a href="https://convertiva.vercel.app/">Live Demo</a>
     </td>
   </tr>
