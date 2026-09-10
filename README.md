@@ -177,12 +177,12 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
   <img
     width="49%"
     alt="Most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaard1&layout=compact&theme=transparent&title_color=7FA6B8&text_color=C2D7DE&bg_color=243A33&hide_border=true&card_width=420"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shaard1&layout=compact&theme=transparent&title_color=7FA6B8&text_color=C2D7DE&bg_color=243A33&hide_border=true&card_width=420"
   />
   <img
     width="49%"
     alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=Shaard1&show_icons=true&theme=transparent&title_color=7FA6B8&icon_color=A7C1A8&text_color=C2D7DE&bg_color=243A33&hide_border=true&rank_icon=github&card_width=420&hide=contribs"
+    src="https://github-stats-extended.vercel.app/api?username=Shaard1&show_icons=true&theme=transparent&title_color=7FA6B8&icon_color=A7C1A8&text_color=C2D7DE&bg_color=243A33&hide_border=true&rank_icon=github&card_width=420&hide=contribs"
   />
 </div>
 
@@ -197,8 +197,8 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 <div align="center">
   <img
     width="100%"
-    alt="GitHub contribution activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shaard1&bg_color=243A33&color=D8EBF2&line=7FA6B8&point=A7C1A8&area=true&hide_border=true&title_color=7FA6B8&custom_title=Shaard1%27s%20Contribution%20Graph"
+    alt="GitHub profile summary and contribution graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaard1&theme=github_dark"
   />
 </div>
 
