@@ -191,6 +191,23 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
       <br /><br />
       <a href="https://convertiva.vercel.app/">Live Demo</a>
     </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Tidewalk Surf Lodge</h3>
+      <p>A connected surf-lodge booking website and staff CRM for managing guests, bookings, payments, tasks, reviews, and AI-assisted travel inquiries.</p>
+      <strong>Stack</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-5E7F67?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-243A33?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vite-5E7F67?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <br />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-243A33?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Supabase-5E7F67?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Groq%20AI-243A33?style=for-the-badge&logoColor=white" alt="Groq AI" />
+      <br /><br />
+      <a href="https://tidewalk-surf-lodge.vercel.app/">Live Website</a>
+      <br />
+      <sub>🔒 Private repository — contact me for more details.</sub>
+    </td>
   </tr>
 </table>
 </div>
