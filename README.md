@@ -172,11 +172,12 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 
 <br />
 
-<table width="100%">
+<div align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" valign="top">
+    <td width="100%" align="center" valign="top">
       <h3>Convertiva</h3>
-      <p>A secure, full-stack file conversion platform for images, PDFs, archives, spreadsheets, audio, video, and websites.</p>
+      <p>A secure, full-stack file conversion platform for images, PDFs, archives,<br />spreadsheets, audio, video, and websites.</p>
       <strong>Stack</strong>
       <br /><br />
       <img src="https://img.shields.io/badge/Next.js%2015-243A33?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
@@ -192,6 +193,7 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
