@@ -67,7 +67,6 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5E7F67?style=for-the-badge&logo=linkedin&labelColor=5E7F67&logoColor=white)](https://www.linkedin.com/in/jadon-cidro-3618873b1/)
 [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-5E7F67?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shaard8)
 [![Instagram](https://img.shields.io/badge/Instagram-5E7F67?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaaiidone/)
-[![GitHub](https://img.shields.io/badge/GitHub-5E7F67?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaard1)
 
 </div>
 
