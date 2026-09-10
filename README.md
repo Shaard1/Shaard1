@@ -177,9 +177,8 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
     <td width="100%" valign="top">
       <h3>Convertiva</h3>
       <p>A web project built to turn ideas into a polished, usable experience.</p>
+      <p><strong>Stack:</strong> Next.js 15 · React 19 · TypeScript · Tailwind CSS · Supabase · Go · FFmpeg</p>
       <a href="https://convertiva.vercel.app/">Live Demo</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/Shaard1/convertiva">Source Code</a>
     </td>
   </tr>
 </table>
