@@ -167,7 +167,27 @@ I'm still learning, and I don't consider myself an expert yet. But I stay consis
 ---
 
 <div align="center">
-<strong>Statistics</strong>
+  <strong>Featured Project</strong>
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Convertiva</h3>
+      <p>A web project built to turn ideas into a polished, usable experience.</p>
+      <a href="https://convertiva.vercel.app/">Live Demo</a>
+      &nbsp;•&nbsp;
+      <a href="https://github.com/Shaard1/convertiva">Source Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <strong>Statistics</strong>
 </div>
 
 <br />
