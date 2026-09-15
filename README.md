@@ -239,14 +239,6 @@ I don't consider myself an expert, and I'm definitely still figuring things out.
   />
 </div>
 
-<div align="center">
-  <img
-    width="78%"
-    alt="GitHub streak statistics"
-    src="https://streak-stats.demolab.com?user=Shaard1&theme=dark&hide_border=true&background=243A33&stroke=5E7F67&ring=7FA6B8&fire=A7C1A8&currStreakLabel=D8EBF2&sideLabels=E7F1E5&sideNums=D8EBF2&dates=B7C9B2"
-  />
-</div>
-
 ---
 
 <div align="center">
